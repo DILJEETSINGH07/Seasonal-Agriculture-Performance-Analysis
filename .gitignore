@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+append_*.py
+batch_*.py
+check_dataset.py
+build_notebook.py
