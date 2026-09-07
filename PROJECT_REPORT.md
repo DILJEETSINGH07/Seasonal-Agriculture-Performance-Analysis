@@ -94,7 +94,9 @@ A **Random Forest Regressor** trained on environmental and input parameters achi
 
 ---
 
-## 7. Generated Visualizations Guide (For PPT Slides)
+## 8. GitHub Repository Link
+- **Repository URL**: `https://github.com/DILJEETSINGH07/Seasonal-Agriculture-Performance-Analysis`
+- Contains the full dataset, Jupyter Notebook (`analysis.ipynb`), Python scripts, figures, and documentation.
 All high-resolution figures are generated in the `figures/` directory:
 - [figure1_seasonal_macro_comparison.png](file:///c:/Users/PC/Downloads/DATAproject/figures/figure1_seasonal_macro_comparison.png): Macro comparison of Yield, Rainfall, Profit, and Water Efficiency.
 - [figure2_crop_performance_by_season.png](file:///c:/Users/PC/Downloads/DATAproject/figures/figure2_crop_performance_by_season.png): Crop-wise yield and profit per hectare by season.
