@@ -59,6 +59,6 @@ Agricultural performance is fundamentally influenced by seasonal variations in e
 ---
 
 ## 👨‍💻 Author & Attribution
-- **Student Name**: Aswini Kumar
+- **Student Name**: Diljeet Singh
 - **Program**: VOIS AICTE Batch 1 (2026–2027)
 - **Course**: Data Visualization & Analytics
